@@ -6,16 +6,16 @@
 }
 
 .main-information-text {
-  width: 30px;
+  width: 40%;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: space-evenly;
 }
 
 .main-information-articles {
   display: flex;
   flex-wrap: wrap;
-  width: 560px;
+  width: 50%;
 }
 
 .article-block {

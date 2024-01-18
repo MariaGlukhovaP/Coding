@@ -1,6 +1,6 @@
 .container {
   max-width: 1040px;
-  margin: 0;
+  margin: 1em;
 }
 
 .banner {
@@ -34,7 +34,7 @@
   border-radius: 5px;
 }
 
-.banner-bottom {
+.banner-button {
   background: #ffa41d;
   color: white;
 }
